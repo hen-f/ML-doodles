@@ -10,3 +10,4 @@ An ongoing list of the finished doodles in the repo:
 - Heart attack classification, data from [kaggle](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)
 - Stroke classification (not yet published), data from [kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 - Data science salaries prediction, data from [kaggle](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
+- Red wine quality prediction (quick simple baseline model), data from [kaggle](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
